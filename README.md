@@ -14,16 +14,14 @@
 
 ## Citation
 
-If you use this dataset or code, please cite this repository:
+If you use this dataset or code, please cite our paper:
 
 ```
-@misc{epd2025,
-  title = {European Patent Dataset (EPD)},
-  author = {Lekang Jiang and Stephan Goetz},
-  year = {2025},
-  publisher = {GitHub},
-  journal = {GitHub repository},
-  howpublished = {\url{https://github.com/scylj1/EPD}},
+@article{jiang2025enriching,
+  title={Enriching Patent Claim Generation with European Patent Dataset},
+  author={Jiang, Lekang and Li, Chengzu and Goetz, Stephan},
+  journal={arXiv preprint arXiv:2505.12568},
+  year={2025}
 }
 ```
 
